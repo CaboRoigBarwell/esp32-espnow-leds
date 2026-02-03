@@ -1,0 +1,11 @@
+﻿# Arduino
+*.ino.*
+*.bin
+*.elf
+*.hex
+
+# VSCode
+.vscode/
+
+# Build
+build/
